@@ -45,6 +45,7 @@
 - [ ] [Conveyor Belts](http://codeforces.com/contest/487/problem/D)
 - [ ] [Instant Messanger](http://codeforces.com/contest/398/problem/D)
 - [ ] [GCD 2010](http://acm.timus.ru/problem.aspx?space=1&num=1846)
+- [ ] [Hill Jumping](https://www.codechef.com/AUG17/problems/HILLJUMP)
 
 
 ## Notes for this File ##
