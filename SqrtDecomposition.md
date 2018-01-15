@@ -46,6 +46,7 @@
 - [ ] [Instant Messanger](http://codeforces.com/contest/398/problem/D)
 - [ ] [GCD 2010](http://acm.timus.ru/problem.aspx?space=1&num=1846)
 - [ ] [Hill Jumping](https://www.codechef.com/AUG17/problems/HILLJUMP)
+- [ ] [Closest Points Queries](https://www.codechef.com/LTIME47/problems/CLOSESTQ)
 
 
 ## Notes for this File ##
