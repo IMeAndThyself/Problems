@@ -47,6 +47,7 @@
 - [ ] [GCD 2010](http://acm.timus.ru/problem.aspx?space=1&num=1846)
 - [ ] [Hill Jumping](https://www.codechef.com/AUG17/problems/HILLJUMP)
 - [ ] [Closest Points Queries](https://www.codechef.com/LTIME47/problems/CLOSESTQ)
+- [ ] [Xor Minimization](https://www.codechef.com/problems/MINXOR)
 
 
 ## Notes for this File ##
