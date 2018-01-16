@@ -5,6 +5,7 @@
 * [ACM Cairo Science](https://acmcairoscience.wordpress.com/2015/04/06/sqrt-decomposition/)
 * [Anudeep](http://blog.anudeep2011.com/mos-algorithm/)
 * [Mo's Algorithm on Trees [Tutorial]](http://codeforces.com/blog/entry/43230)
+* [E-maxx](http://e-maxx.ru/algo/sqrt_decomposition)
 ### Too Excited? Need Boredom? :stuck_out_tongue: ###
 - [x] [DQUERY](http://www.spoj.com/problems/DQUERY)
 - [x] [Boring counting](http://acm.hdu.edu.cn/showproblem.php?pid=4358)
