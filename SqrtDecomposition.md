@@ -51,7 +51,7 @@
 - [ ] [Hill Jumping](https://www.codechef.com/AUG17/problems/HILLJUMP)
 - [ ] [Closest Points Queries](https://www.codechef.com/LTIME47/problems/CLOSESTQ)
 - [ ] [Xor Minimization](https://www.codechef.com/problems/MINXOR)
-- [ ] [Chef and Odd Queries](http://www.codechef.com/FEB18/problems/CHANOQ) [Online](https://discuss.codechef.com/questions/122105/chanoq-editorial) [Offline](https://discuss.codechef.com/questions/122723/chanoq-unofficial-editorial-chef-and-odd-queries-feb-long)
+- [ ] [Chef and Odd Queries](http://www.codechef.com/FEB18/problems/CHANOQ) (Solution: [Online],(https://discuss.codechef.com/questions/122105/chanoq-editorial) [Offline](https://discuss.codechef.com/questions/122723/chanoq-unofficial-editorial-chef-and-odd-queries-feb-long))
 
 
 ## Notes for this File ##
