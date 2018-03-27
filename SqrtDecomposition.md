@@ -36,7 +36,7 @@
 - [x] [Chef and Churu](https://www.codechef.com/NOV14/problems/FNCS/) ([Code](https://www.codechef.com/viewsolution/17063223)) (My solution's complexity is <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{O}(q\sqrt{n})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal{O}(q\sqrt{n})" title="\mathcal{O}(q\sqrt{n})" /></a>. Needs two sqrt decomposition.)
 - [ ] [Welcome Home, Chtholy](http://codeforces.com/contest/896/problem/E)
 - [x] [Array Queries](http://codeforces.com/contest/797/problem/E)
-- [ ] [JOI Spring Camp/Qualifying Trial Day-3 Problem-2-Bitaro’s Party]()
+- [x] [JOI Spring Camp/Qualifying Trial Day-3 Problem-2-Bitaro’s Party]() ([Code](https://ideone.com/Hn77w3))
 ### Will be Catagorized after Solving :no_mouth: ###
 - [ ] [Chef and Graph Queries](https://www.codechef.com/problems/GERALD07)
 - [ ] [Scaygerboss](http://codeforces.com/contest/513/problem/F2)
