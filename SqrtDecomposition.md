@@ -54,6 +54,7 @@
 - [ ] [Xor Minimization](https://www.codechef.com/problems/MINXOR)
 - [ ] [Chef and Odd Queries](http://www.codechef.com/FEB18/problems/CHANOQ) (Solution: [Online](https://discuss.codechef.com/questions/122105/chanoq-editorial), [Offline](https://discuss.codechef.com/questions/122723/chanoq-unofficial-editorial-chef-and-odd-queries-feb-long))
 - [ ] [Mathison and the divisors 2](https://csacademy.com/contest/rmi-2017-day-2/task/matdiv2/)
+- [ ] [Sum of Cubes](https://www.codechef.com/problems/SUMCUBE) ([Editorial](https://discuss.codechef.com/questions/108250/sumcube-editorial))
 
 ## Notes for this File ##
 - [x] Means coded and got AC
