@@ -37,6 +37,8 @@
 - [ ] [Welcome Home, Chtholy](http://codeforces.com/contest/896/problem/E)
 - [x] [Array Queries](http://codeforces.com/contest/797/problem/E)
 - [x] [JOI Spring Camp/Qualifying Trial Day-3 Problem-2-Bitaro’s Party]() ([Code](https://ideone.com/Hn77w3))
+- [ ] [Xor Sequence](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xor-sequence-aad3111f/)
+- [ ] [Benny and Sum](https://www.hackerearth.com/problem/algorithm/benny-and-sum-2/description/)
 ### Will be Catagorized after Solving :no_mouth: ###
 - [ ] [Chef and Graph Queries](https://www.codechef.com/problems/GERALD07)
 - [ ] [Scaygerboss](http://codeforces.com/contest/513/problem/F2)
