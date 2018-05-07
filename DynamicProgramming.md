@@ -8,3 +8,8 @@
 - [ ] [CEOI16 - Kangaroo](https://oj.uz/problem/view/CEOI16_kangaroo) ([Editorial](http://www.ceoi2016.ro/wp-content/uploads/2016/08/kangaroo-solution.pdf))
 - [ ] [Magical Teleporter (Subtask 4)](http://codeforces.com/group/R2SERIff4f/contest/213171/problem/R) ([Editorial](https://docs.google.com/presentation/d/1uyDxDV90zdUeGLz22rwzuKyZ8q2Tb8DrLfR-T1NgG9w/edit#slide=id.g203d91fd2e_6_81))
 - [ ] [JOI Open 2016 - Skyscrapers](https://oj.uz/problem/view/JOI16_skyscraper) ([Editorial]())
+
+### Open-Close Interval DP
+- [ ] [Group Projects](http://codeforces.com/contest/626/problem/F)
+- [ ] [Increase Sequence](http://codeforces.com/contest/466/problem/D)
+- [ ] [Sereja and Intervals](http://codeforces.com/contest/367/problem/E)
