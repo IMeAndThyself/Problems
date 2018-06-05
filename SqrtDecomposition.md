@@ -42,6 +42,7 @@
 - [ ] [May Holidays](http://codeforces.com/contest/925/problem/E)
 - [ ] [Dynamic Trees](https://www.hackerrank.com/contests/world-codesprint-13/challenges/dynamic-trees/problem)
 - [ ] [Competitive Teams](https://www.hackerrank.com/contests/world-codesprint-13/challenges/competitive-teams/problem)
+- [ ] [CCO '18 P5 - Boring Lectures](https://dmoj.ca/problem/cco18p5)
 ### Will be Catagorized after Solving :no_mouth: ###
 - [ ] [Chef and Graph Queries](https://www.codechef.com/problems/GERALD07)
 - [ ] [Scaygerboss](http://codeforces.com/contest/513/problem/F2)
