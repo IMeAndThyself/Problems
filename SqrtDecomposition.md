@@ -44,6 +44,7 @@
 - [ ] [Competitive Teams](https://www.hackerrank.com/contests/world-codesprint-13/challenges/competitive-teams/problem)
 - [ ] [CCO '18 P5 - Boring Lectures](https://dmoj.ca/problem/cco18p5)
 - [ ] [IOI'11 Dancing Elephants](https://oj.uz/problem/view/IOI11_elephants)
+- [x] [IOI'09 Regions](https://contest.yandex.com/ioi/contest/568/problems/G/)
 ### Will be Catagorized after Solving :no_mouth: ###
 - [ ] [Chef and Graph Queries](https://www.codechef.com/problems/GERALD07)
 - [ ] [Scaygerboss](http://codeforces.com/contest/513/problem/F2)
